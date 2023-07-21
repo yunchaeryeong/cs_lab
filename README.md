@@ -4,3 +4,15 @@
 
 #### 시안 작업
 >먼저 시안 작업물입니다. 처음 웹사이트의 메인 컬러를 정할 때 개발자 학생 분들의 의견을 많이 반영하기 위해 어떤 컬러를 원하는지 여쭤보았습니다. 파스텔 톤의 블루나 퍼플 사이 계열을 선호하셔서 그에 맞게 컬러를 정하였습니다. 또한 히어로 이미지는 너무 딱딱한 분위기 보다는 컬러에 보다 어울리는 이미지를 선호하셔서 블루 계열의 이미지를 반영하려고 노력했습니다. 아래 이미지는 처음 시안으로 작업한 이미지입니다.
+![슬라이드1](https://github.com/yunchaeryeong/cs_lab/assets/127724568/534f2952-7cb7-42d7-a124-5d4948bd6650)
+![슬라이드2](https://github.com/yunchaeryeong/cs_lab/assets/127724568/3838d12f-f620-4c60-be4c-a0b789e3392f)
+![슬라이드3](https://github.com/yunchaeryeong/cs_lab/assets/127724568/52bcb06e-33f0-4874-b92a-ac885b1f93c3)
+![슬라이드4](https://github.com/yunchaeryeong/cs_lab/assets/127724568/a64fe5b7-e075-4616-b687-3cb36134c795)
+![슬라이드5](https://github.com/yunchaeryeong/cs_lab/assets/127724568/62b43f49-393d-492d-a342-046916e4196e)
+![슬라이드6](https://github.com/yunchaeryeong/cs_lab/assets/127724568/7b83a46f-ab61-473f-85cb-24142de76fbd)
+![슬라이드7](https://github.com/yunchaeryeong/cs_lab/assets/127724568/8f5f3386-2c9a-4ca0-bdbe-e5c79976bbc8)
+![슬라이드8](https://github.com/yunchaeryeong/cs_lab/assets/127724568/949ce04a-c4e4-43ff-b954-221fe7c70dbe)
+![슬라이드9](https://github.com/yunchaeryeong/cs_lab/assets/127724568/2a3eca02-992c-4676-b019-5386055767f5)
+![슬라이드10](https://github.com/yunchaeryeong/cs_lab/assets/127724568/b0f8b519-5f9f-4010-8459-6951f605d9dc)
+![슬라이드11](https://github.com/yunchaeryeong/cs_lab/assets/127724568/12c789f8-3ac5-44d8-9d83-aa4cf3f878b1)
+![슬라이드12](https://github.com/yunchaeryeong/cs_lab/assets/127724568/64d7bf83-7a2b-42dc-bab1-096778d99ffa)
