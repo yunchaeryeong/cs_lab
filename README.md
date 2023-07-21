@@ -39,6 +39,7 @@
 ![Hero 5](https://github.com/yunchaeryeong/cs_lab/assets/127724568/d4e95c29-e599-4604-a334-a224e84266ce)
 #### Members page
 ![Hero 6](https://github.com/yunchaeryeong/cs_lab/assets/127724568/1a4c2d51-963c-469d-bc22-356eb093d75b)
+-
 
 <div></div>
 <div></div>
@@ -49,7 +50,9 @@
 
 #### 워터마크 로고
 <img width="160" alt="f_web logo 1" src="https://github.com/yunchaeryeong/cs_lab/assets/127724568/652a00ef-e040-4b05-86b9-4764b86f8917">
+-
 
-작업 후 개발자 학생분들께서 초반에 랩실 분위기나 홍보 요소들을 고려하지 않고 작업이 된 것 같다며 전체 페이지가 수정하셨습니다.
 
 ### 최종본
+작업 후 개발자 학생분들께서 초반에 랩실 분위기나 홍보 요소들을 고려하지 않고 작업이 된 것 같다며 전체 페이지가 수정하셨습니다.
+
