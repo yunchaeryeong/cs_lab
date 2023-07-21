@@ -56,3 +56,24 @@
 ### 최종본
 작업 후 개발자 학생분들께서 초반에 랩실 분위기나 홍보 요소들을 고려하지 않고 작업이 된 것 같다며 전체 페이지가 수정하셨습니다.
 
+https://github.com/yunchaeryeong/cs_lab/assets/127724568/3030437a-bcdb-478c-98f2-a3a133973daf
+#### About page
+![About-–-CS-Lab](https://github.com/yunchaeryeong/cs_lab/assets/127724568/fa7b8c47-f580-4497-a556-8440df9c408f)
+#### Members-proffesor page
+![Professor-–-CS-Lab](https://github.com/yunchaeryeong/cs_lab/assets/127724568/a6db5f64-d2de-440c-b930-5c1ee5cbdf77)
+#### Members-student page
+![Student-–-CS-Lab](https://github.com/yunchaeryeong/cs_lab/assets/127724568/35d0c9ab-9197-407b-8b3e-6194cd4fb5c1)
+#### Project page
+![Project-–-CS-Lab](https://github.com/yunchaeryeong/cs_lab/assets/127724568/27dfc1e1-52ed-4b21-9e0e-ecaa8de40d60)
+#### Community-notice page
+![Notice-–-CS-Lab](https://github.com/yunchaeryeong/cs_lab/assets/127724568/ab7026f8-70ea-475b-9b5b-b3d5362c4448)
+#### Community-자료실 page
+![Pds-–-CS-Lab](https://github.com/yunchaeryeong/cs_lab/assets/127724568/20f7c555-58b2-4f4d-a611-5dc506dd37f5)
+#### Community-gallery page
+![Gallery-–-CS-Lab](https://github.com/yunchaeryeong/cs_lab/assets/127724568/6d9e8094-0113-4dae-85bd-8e35a23f2f4d)
+
+
+### 개인 수정 작업물
+제 개인적으로 다시 수정한 웹사이트입니다. 기존 웹사이트에서 중복되는 히어로 이미지들을 걸러내고 각 섹션에 맞는 이미지로 대체했습니다. 또한 랩실이 보여주어야 할 신뢰감을 위해 진한 블루계열을 메인으로 수정했습니다. 통일감 없던 폰트는 산세리프체로 통일하였고 호버 시에 연한 옐로우로 가시성이 떨어지는 컬러는 메인과 어울리는 블루 컬러로 변경하였습니다.
+>프로젝트 마무리 과정에서 개발자 학생분들께서 교수님께서 원하시던 이미지를 말씀해주셨습니다. 팀워크와 따뜻한 분위기를 원하셨고 섹션 중에 Members와 Project에서 그 부분을 나타내는 것이 적합할 것 같아 수정했습니다. 히어로 이미지는 따뜻한 분위기와 메인 컬러가 어울리도록 밝기를 올려 밝게 연출했습니다. 또 각 섹션에선 메뉴명이 섹션 이미지와 떨어질 수 있도록 대비되는 컬러와 그림자를 미세하게 넣어주었습니다.
+
